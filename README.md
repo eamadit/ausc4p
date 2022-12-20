@@ -2,7 +2,7 @@
 
 A Universal Smart Computer for Professionnals
 
-The product is pocket-sized and self-powered with a battery killer switch, a power switch, a microphone switch, a front camera switch, a back camera switch, a wifi switch, a GPS switch, a gyroscope and NFC switch and any other necessary radio switch like GSM. All these switches shall be material and act on both data and current circuits because they control the access to a critical peripheral.
+The product is pocket-sized and self-powered with a battery killer switch, a power switch, a microphone switch, a front camera switch, a back camera switch, a wifi switch, a GPS switch, a gyroscope switch, a NFC switch and any other necessary radio switch like GSM and Bluetooth. All these switches shall be material and act on both data and current circuits because they control the access to a critical peripheral. The cited peripherals are critical because they process user data.
 
 Each critical peripheral shall have a gigabit ethernet interface and its own microkernel in order to provide real-world separation. All network peripherals shall be made with FPGAs in order to provide long lasting support and to secure GSM.
 
