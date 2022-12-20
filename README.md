@@ -8,4 +8,6 @@ Each critical peripheral shall have a gigabit ethernet interface and its own mic
 
 The motherboard shall have a secure ARM architecture with a CPU powerful enough to last 10 years. The GPU shall allow HD external display with a wireless receptor to plug to the display.
 
+The device shall be built to last 20 years.
+
 This will help testing PAPSUOS: https://github.com/eamadit/PAPSUOS
