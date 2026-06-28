@@ -4,7 +4,7 @@ A Universal Smart Computer for Professionnals
 
 The product is pocket-sized, has a battery killer switch on all wires, a power switch on all wires, a microphone switch on all wires, a front camera switch, a back camera switch, a wifi switch, a GPS switch, a gyroscope switch on all wires, an accelerometer switch on all wires, a NFC switch and a Bluetooth switch. All these switches shall be material and, when possible, shall act on both data and current circuits because they control the access to a critical peripheral. The cited peripherals are critical because they collect and/or process user data.
 
-Each critical peripheral shall have a gigabit ethernet interface and its own kernel in order to provide real-world separation. The network peripherals are a standard wifi interface, a FPGA wifi interface, a Bluetooth FPGA interface and maybe a FPGA USB Type C interface, FPGAs are made for development on how to provide long lasting support.
+Each critical peripheral shall have a gigabit ethernet interface and its own kernel in order to provide real-world separation. The network peripherals are a standard Wifi interface, a FPGA-based Wifi interface, a FPGA-based Bluetooth interface and maybe a FPGA-based USB Type C interface for physical layer research, FPGA chips are made for development on how to provide long lasting support because allow to deploy new circuits at each restart of the FPGA chips.
 
 The motherboard shall have a secure ARM architecture with a CPU powerful enough to last 10 years. The GPU shall allow HD external display with a wireless receptor to plug to the display.
 
