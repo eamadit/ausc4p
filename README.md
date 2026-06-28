@@ -10,4 +10,4 @@ The motherboard shall have a secure ARM architecture with a CPU powerful enough 
 
 The device shall be built to last 20 years.
 
-A PCI express bus with at least 1 USB 4.0 connector will allow developers to plug a GSM modem.
+2 PCI express buses on 2 different boards wich 1 USB 4.0 connector each will allow developers to plug a GSM modem in an isolated board and in the main board to compare.
