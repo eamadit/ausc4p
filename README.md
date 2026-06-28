@@ -6,8 +6,6 @@ The product is pocket-sized, has a battery killer switch on all wires, a power s
 
 Each critical peripheral shall have a gigabit ethernet interface and its own kernel in order to provide real-world separation. The network peripherals are a standard Wifi interface, a FPGA-based Wifi interface, a FPGA-based Bluetooth interface and maybe a FPGA-based USB Type C interface for physical layer research, FPGA chips are made for development on how to provide long lasting support because they allow deployment of new circuits at each restart of the FPGA chips.
 
-The motherboard shall have a secure ARM architecture with a CPU powerful enough to last 10 years. The GPU shall allow HD external display with a wireless receptor to plug to the display.
-
 The device shall be built to last 20 years.
 
 2 PCI express buses on 2 different boards with 1 USB 4.0 connector each will allow developers to plug a GSM modem in an isolated board and in the main board to compare.
