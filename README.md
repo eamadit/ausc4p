@@ -1,6 +1,6 @@
 # ausc4p
 
-A Universal Smart Computer for Professionnals
+An Universal Smart Computer for Professionnals
 
 The product is pocket-sized, has a battery killer switch on all wires, a power switch on all wires, a microphone switch on all wires, a front camera switch, a back camera switch, a wifi switch, a GPS switch, a gyroscope switch on all wires, an accelerometer switch on all wires, a NFC switch and a Bluetooth switch. All these switches shall be material and, when possible, shall act on both data and current circuits because they control the access to a critical peripheral. The cited peripherals are critical because they collect and/or process user data.
 
